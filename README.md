@@ -1,2 +1,2 @@
-# EmergenyRoom
+# EmergencyRoom
 ER triage sorting backend
